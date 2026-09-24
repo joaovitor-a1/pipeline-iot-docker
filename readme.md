@@ -95,5 +95,15 @@ pipeline-iot-docker/
 ## Comandos Git Utilizados
 
 ```
+git init
 
+git add .
+
+git commit -m "feat: Commit inicial do Projeto IoT"
+
+git branch -M main
+
+git remote add origin https://github.com/joaovitor-a1/pipeline-iot-docker.git
+
+git push -u origin main
 ```
